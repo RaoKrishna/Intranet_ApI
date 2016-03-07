@@ -1,0 +1,10 @@
+F:\Git\CR_App\Intranet_API\IntranetAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+F:\Git\CR_App\Intranet_API\IntranetAPI\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+F:\Git\CR_App\Intranet_API\IntranetAPI\DataAccessLayer\bin\Debug\EntityFramework.dll
+F:\Git\CR_App\Intranet_API\IntranetAPI\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\Git\CR_App\Intranet_API\IntranetAPI\DataAccessLayer\bin\Debug\EntityFramework.xml
+F:\Git\CR_App\Intranet_API\IntranetAPI\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\Git\CR_App\Intranet_API\IntranetAPI\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+F:\Git\CR_App\Intranet_API\IntranetAPI\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+F:\Git\CR_App\Intranet_API\IntranetAPI\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+F:\Git\CR_App\Intranet_API\IntranetAPI\DataAccessLayer\obj\Debug\DataAccessLayer.dll
